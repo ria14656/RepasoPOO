@@ -1,0 +1,14 @@
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\JuegoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\JuegoPOO.AssemblyInfoInputs.cache
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\JuegoPOO.AssemblyInfo.cs
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\JuegoPOO.csproj.CoreCompileInputs.cache
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\bin\Debug\net8.0\JuegoPOO.exe
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\bin\Debug\net8.0\JuegoPOO.deps.json
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\bin\Debug\net8.0\JuegoPOO.runtimeconfig.json
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\bin\Debug\net8.0\JuegoPOO.dll
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\bin\Debug\net8.0\JuegoPOO.pdb
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\JuegoPOO.dll
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\refint\JuegoPOO.dll
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\JuegoPOO.pdb
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\JuegoPOO.genruntimeconfig.cache
+C:\Users\ariat\Desktop\Repaso poo\JuegoPOO\JuegoPOO\obj\Debug\net8.0\ref\JuegoPOO.dll
